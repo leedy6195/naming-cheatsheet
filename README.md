@@ -30,7 +30,6 @@ Although these suggestions can be applied to any programming language, I will us
 Use English language when naming your variables and functions.
 
 ```js
-/* TEST */
 /* Bad */
 const primerNombre = 'Gustavo'
 const amigos = ['Kate', 'John']
